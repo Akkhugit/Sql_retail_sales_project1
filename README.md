@@ -201,6 +201,7 @@ GROUP BY shift
 
 **Sales Summary**: Provides an overview of total sales, including breakdowns by product category, quantity sold, and customer demographics.
 **Trend Analysis**: Highlights monthly and shift-based sales patterns to identify peak sales periods and operational trends.
+
 **Customer Insights**: Identifies top-spending customers, analyzes purchase behavior by gender and age, and tracks unique customer engagement across categories.
 
 ## Conclusion
